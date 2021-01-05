@@ -3,6 +3,8 @@
 This map shows the CityLAB Berlin on a cybermap.
 The map was ist based on the starter kit of [WorkAdventure](https://workadventu.re).
 
+**To visit the map and chat with others follow the [Link to the CityLAB Cybermap](https://play.workadventu.re/_/global/technologiestiftung.github.io/cybermap/map.json)**
+
 ## How To aka. Getting Started
 
 In order to build your own map for WorkAdventure, you need:
