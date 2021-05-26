@@ -1,4 +1,4 @@
-# CityLAB Cybermap
+# CityLAB Pixelwelt 
 
 This map shows the CityLAB Berlin as a pixel world and is mentioned to be its digital twin.
 The map was ist based on the starter kit of [WorkAdventure](https://workadventu.re).
