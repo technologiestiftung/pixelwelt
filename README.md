@@ -1,9 +1,9 @@
 # CityLAB Cybermap
 
-This map shows the CityLAB Berlin on a cybermap.
+This map shows the CityLAB Berlin as a pixel world and is mentioned to be its digital twin.
 The map was ist based on the starter kit of [WorkAdventure](https://workadventu.re).
 
-**To visit the map and chat with others follow the [Link to the CityLAB Cybermap](https://play.workadventu.re/_/global/technologiestiftung.github.io/cybermap/map.json)**
+**To visit the map and chat with others follow the [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)**
 
 ## How To aka. Getting Started
 
