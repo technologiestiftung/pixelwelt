@@ -5,16 +5,23 @@ The map was ist based on the starter kit of [WorkAdventure](https://workadventu.
 
 **To visit the map and chat with others follow the [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)**
 
-## How To aka. Getting Started
+## Getting Started
+In order to build the **CityLAB Pixelwelt**, we used the WorkAdventure Starter Kit. Just visited their [Github Repository](https://github.com/thecodingmachine/workadventure-map-starter-kit) and clicked the green **"Use this template"** button to the top right.
 
-In order to build your own map for WorkAdventure, you need:
+**Advantage:** WorkAdventure provides a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant) and to serve a Jitsi-Server. 
 
-- the [Tiled editor](https://www.mapeditor.org/) software
-- "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
+**Disdavantage:** Only up to 15 concurrent users are for free
 
-On the [Github repository page](https://github.com/thecodingmachine/workadventure-map-starter-kit),
-click the **"Use this template"** button. You will be prompted to enter a repository name for your map. Follow their instructions to create your very own map.
+## How ot contribute
+
+1. Install the [Tiled editor](https://www.mapeditor.org/) software on your computer
+2. Read the [documentation of the Tiled editor](https://doc.mapeditor.org/en/stable/) in order to navigate properly
+3. Gather "tiles" aka. `png-images` to create your map. You can already find some tiles in the `tiles folder`. You can also create your own custom tiles if you like. Be aware: one tile has to have exatcly the size of **32x32px**
+5. Open the `map.js` in the tiled editor and change things you'd like to change
+6. Save the map und push the new version to GitHub
+
+Push on master automatically triggers a new deploy on GitHub pages (takes some minutes). 
+You can see the results here: [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)**
 
 ## More coming soon...
 
