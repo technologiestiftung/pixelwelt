@@ -1,7 +1,7 @@
 # CityLAB Pixelwelt 
 
 This map shows the CityLAB Berlin as a pixel world and is mentioned to be its digital twin.
-The map was ist based on the starter kit of [WorkAdventure](https://workadventu.re).
+The map is based on the starter kit of [WorkAdventure](https://workadventu.re).
 
 **To visit the map and chat with others follow the [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)**
 
@@ -12,7 +12,7 @@ In order to build the **CityLAB Pixelwelt**, we used the WorkAdventure Starter K
 
 **Disdavantage:** Only up to 15 concurrent users are for free
 
-## How ot contribute
+## How to contribute
 
 1. Install the [Tiled editor](https://www.mapeditor.org/) software on your computer
 2. Read the [documentation of the Tiled editor](https://doc.mapeditor.org/en/stable/) in order to navigate properly
@@ -21,7 +21,7 @@ In order to build the **CityLAB Pixelwelt**, we used the WorkAdventure Starter K
 6. Save the map und push the new version to GitHub
 
 Push on master automatically triggers a new deploy on GitHub pages (takes some minutes). 
-You can see the results here: [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)**
+You can see the results here: [Link to the CityLAB Pixelwelt](https://play.workadventu.re/_/global/technologiestiftung.github.io/pixelwelt/map.json)
 
 ## More coming soon...
 
