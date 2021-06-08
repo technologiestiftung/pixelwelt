@@ -45,7 +45,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":106,
          "x":0,
          "y":0
