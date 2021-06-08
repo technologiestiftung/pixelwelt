@@ -845,6 +845,15 @@
                         }]
                 }, 
                 {
+                 "id":70,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":80,
                  "properties":[
                         {
@@ -936,24 +945,6 @@
                 }, 
                 {
                  "id":185,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":223,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":224,
                  "properties":[
                         {
                          "name":"collides",
