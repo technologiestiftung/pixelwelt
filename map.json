@@ -47,7 +47,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/hiphop_145bpm.m4a"
+                 "value":"sounds\/discoswing.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
