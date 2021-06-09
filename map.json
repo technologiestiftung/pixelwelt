@@ -196,7 +196,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/191461839?fbclid=IwAR1UPR9tuYgyTWT2qQAaluII4FCIZkD4xbRpOUtsA9WJrw2BFX8gW0GHkos"
+                 "value":"https:\/\/player.vimeo.com\/video\/191461839?color=1693a7&title=0&byline=0&portrait=0"
                 }],
          "type":"tilelayer",
          "visible":true,
