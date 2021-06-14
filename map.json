@@ -431,7 +431,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/citylab-sommerfest-werkstatt"
+                 "value":"meet.jit.si\/citylab-sommerfest-werkstatt"
                 }],
          "type":"tilelayer",
          "visible":true,
