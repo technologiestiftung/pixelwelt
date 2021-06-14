@@ -226,7 +226,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hopin.com\/events\/citylab-sommerfest-2021"
+                 "value":"https:\/\/hopin-link.netlify.app"
                 }],
          "type":"tilelayer",
          "visible":true,
