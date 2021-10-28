@@ -554,11 +554,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sroro84osoierio22"
@@ -581,11 +576,6 @@
          "name":"jitsi-stinkeraum",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -610,16 +600,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \" #a12ac4\" }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"444kuekdkduur"
@@ -643,16 +623,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#000000\" }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"deisro84skuhxkuh3"
@@ -675,11 +645,6 @@
          "name":"jitsi-pubquiz",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
