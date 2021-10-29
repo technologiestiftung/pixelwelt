@@ -212,7 +212,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.science.org\/doi\/10.1126\/sciadv.abk3283"
                 }],
@@ -266,7 +266,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/haveibeenpwned.com"
                 }],
@@ -284,7 +284,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.nytimes.com\/interactive\/2019\/12\/19\/opinion\/location-tracking-cell-phone.html"
                 }],
@@ -338,7 +338,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/link.springer.com\/article\/10.1007%2Fs10603-018-9399-7"
                 }],
@@ -428,7 +428,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/datenaffaire.com\/2021\/08\/19\/episode-31\/"
                 }],
@@ -446,9 +446,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/arxiv.org\/abs\/2011.07018"
+                 "value":"https:\/\/github.com\/spring-epfl\/synthetic_data_release"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -464,7 +464,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/nypost.com\/2021\/08\/26\/elsie-eiler-surprised-when-one-person-nebraska-town-doubles-in-census\/"
                 }],
