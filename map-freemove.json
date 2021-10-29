@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.media.ccc.de\/v\/35c3chaoswest-25-track-me-if-you-oh-"
+                 "value":"https:\/\/app.media.ccc.de\/v\/35c3chaoswest-25-track-me-if-you-oh-\/oembed"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -376,7 +376,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.media.ccc.de\/v\/35c3-9809-datenschutz_fur_neulandburger"
+                 "value":"https:\/\/app.media.ccc.de\/v\/35c3-9809-datenschutz_fur_neulandburger\/oembed"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -412,7 +412,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/open.spotify.com\/episode\/0atmYBWMfaBpg0DruelbPl?si=ef33acc6dff9407d&nd=1"
+                 "value":"https:\/\/open.spotify.com\/embed-podcast\/episode\/0atmYBWMfaBpg0DruelbPl"
                 }],
          "type":"tilelayer",
          "visible":true,
