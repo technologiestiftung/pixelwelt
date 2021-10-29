@@ -356,7 +356,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"http:\/\/andreaforte.net\/McDonaldPoliticsofPrivacy.pdf"
                 }],
