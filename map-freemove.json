@@ -140,9 +140,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/www.hinterding.com"
+                 "value":"https:\/\/freemove-map.netlify.app"
                 }],
          "type":"tilelayer",
          "visible":true,
