@@ -708,6 +708,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CityLAB Berlin"
+        }, 
+        {
          "name":"mapDescription",
          "type":"string",
          "value":"Das CityLAB Berlin ist ein Innovationslabor f\u00fcr die Stadt von Morgen. Wir entwickeln digitale Prototypen f\u00fcr die Berliner Verwaltung und begleiten den Weg Berlins zur Smart City.  Die Map ist eine digitale Version des Spaces im Flughafen Tempelhof."
@@ -744,15 +749,6 @@
          "tilecount":256,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }, 
                 {
                  "id":48,
                  "properties":[
