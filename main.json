@@ -715,7 +715,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Das CityLAB Berlin ist ein Innovationslabor f\u00fcr die Stadt von Morgen. Wir entwickeln digitale Prototypen f\u00fcr die Berliner Verwaltung und begleiten den Weg Berlins zur Smart City.  Die Map ist eine digitale Version des Spaces im Flughafen Tempelhof."
+         "value":"The CityLAB Berlin is a public innovation lab for the city of tomorrow. We develop digital prototypes for the Berlin administration and shape the future of Berlin as a Smart City. This map is based on the real CityLAB, which is located in the Flughafen Tempelhof."
         }, 
         {
          "name":"mapLink",
