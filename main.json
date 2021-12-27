@@ -173,6 +173,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/citylabberlin.typeform.com\/to\/KFmKPv"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -191,6 +196,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/pYL1onSqMDo"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,6 +219,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/1o5jJn-K2nk"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -227,6 +242,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.digital-vereint.berlin\/de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -245,6 +265,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/flotte-berlin.de\/cb-items\/lars\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -263,6 +288,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/strategie.smart-city-berlin.de\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -281,6 +311,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/KB5eVWziMGo"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -299,6 +334,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fixmyberlin.de\/friedrichshain-kreuzberg\/terrassen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -317,6 +357,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fixmyberlin.de\/friedrichshain-kreuzberg\/spielstrassen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -335,6 +380,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/radiocitylab.podigee.io\/1-opensourceverwaltung"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -353,6 +403,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/berlinopensource.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -371,6 +426,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.dw.com\/en\/digital-solutions-for-sustainable-cities\/av-55899838"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -389,6 +449,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.citylab-berlin.org\/handbuch\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -407,6 +472,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.giessdenkiez.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -425,6 +495,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/bikesharing.citylab-berlin.org"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -443,6 +518,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/AycKzmPvdCw"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -626,6 +706,22 @@
  "nextlayerid":75,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Das CityLAB Berlin ist ein Innovationslabor f\u00fcr die Stadt von Morgen. Wir entwickeln digitale Prototypen f\u00fcr die Berliner Verwaltung und begleiten den Weg Berlins zur Smart City.  Die Map ist eine digitale Version des Spaces im Flughafen Tempelhof."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/www.citylab-berlin.org"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"CityLAB Berlin"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
