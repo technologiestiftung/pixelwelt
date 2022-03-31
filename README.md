@@ -27,3 +27,30 @@ You can see the results here: [Link to the CityLAB Pixelwelt](https://play.worka
 
 ## More coming soon...
 
+## Credits
+
+<table>
+  <tr>
+    <td>
+      <a src="https://citylab-berlin.org/en/start/">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      A project by: <a src="https://www.technologiestiftung-berlin.de/en/">
+        <br />
+        <br />
+        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-en.svg" />
+      </a>
+    </td>
+    <td>
+      Supported by: <a src="https://www.berlin.de/en/">
+        <br />
+        <br />
+        <img width="120" src="https://logos.citylab-berlin.org/logo-berlin.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
