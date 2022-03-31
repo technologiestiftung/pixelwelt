@@ -27,6 +27,29 @@ You can see the results here: [Link to the CityLAB Pixelwelt](https://play.worka
 
 ## More coming soon...
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.awsm.de/"><img src="https://avatars.githubusercontent.com/u/434355?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Ingo Hinterding</b></sub></a><br /><a href="#content-Esshahn" title="Content">🖋</a> <a href="#design-Esshahn" title="Design">🎨</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=Esshahn" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/julizet"><img src="https://avatars.githubusercontent.com/u/52455010?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Julia Zet</b></sub></a><br /><a href="#content-julizet" title="Content">🖋</a> <a href="#design-julizet" title="Design">🎨</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=julizet" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Rikktee"><img src="https://avatars.githubusercontent.com/u/85503045?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Rikktee</b></sub></a><br /><a href="#content-Rikktee" title="Content">🖋</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=Rikktee" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/vogelino"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/pixelwelt/commits?author=vogelino" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 ## Credits
 
 <table>
@@ -54,26 +77,3 @@ You can see the results here: [Link to the CityLAB Pixelwelt](https://play.worka
     </td>
   </tr>
 </table>
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://www.awsm.de/"><img src="https://avatars.githubusercontent.com/u/434355?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Ingo Hinterding</b></sub></a><br /><a href="#content-Esshahn" title="Content">🖋</a> <a href="#design-Esshahn" title="Design">🎨</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=Esshahn" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/julizet"><img src="https://avatars.githubusercontent.com/u/52455010?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Julia Zet</b></sub></a><br /><a href="#content-julizet" title="Content">🖋</a> <a href="#design-julizet" title="Design">🎨</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=julizet" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Rikktee"><img src="https://avatars.githubusercontent.com/u/85503045?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Rikktee</b></sub></a><br /><a href="#content-Rikktee" title="Content">🖋</a> <a href="https://github.com/technologiestiftung/pixelwelt/commits?author=Rikktee" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vogelino"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/pixelwelt/commits?author=vogelino" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
